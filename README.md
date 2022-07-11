@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crabbypixel
 - 👀 I’m interested in C++, Java and projects.
-- 🌱 I’m currently learning school :)
+- 🌱 Currently learning in school :)
 - 💞️ I’m looking to collaborate on projects (not right now).
 - 📫 How to reach me: send an e-mail to crabbypixel@gmail.com
 
